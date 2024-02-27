@@ -12,6 +12,10 @@ body {
     border: 0;
 }
 
+.navbar-nav {
+    margin: 0px;
+}
+
 .navbar-brand {
     padding-top: 25px;
     padding-bottom: 40px;
