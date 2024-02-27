@@ -64,9 +64,12 @@ body {
 
 #home-tiles .item-text {
     background: #cfcfcf;
-    padding: 10px;
+    padding: 20px;
 }
-
+.item-text {
+    color: #000;
+    text-align: justify;
+}
 #home-tiles .item-text p {
     font-size: 1.3em;
     font-weight: 400;
