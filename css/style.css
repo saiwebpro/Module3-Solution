@@ -24,16 +24,15 @@ body {
     text-decoration: none;
 }
 .navbar-brand h1 { /* Restaurant name */
-    font-family: 'Lora', serif;
-    color: #557c3e;
-    font-size: 1.7em;
+    font-family: 'Poppins', serif;
+    color: #ffffff;
     text-transform: uppercase;
     position: relative;
     font-weight: bold;
     text-shadow: 1px 1px 1px #222;
     margin-top: 0;
     margin-bottom: 0;
-    line-height: .75;
+    line-height: normal;
     padding-bottom: 20px;
 }
 
